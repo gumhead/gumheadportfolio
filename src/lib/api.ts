@@ -17,3 +17,10 @@ export function getPostBySlug(slug: string) {
 
   return { ...data, slug: realSlug, content } as Post;
 }
+
+export function getAllPosts(): Post[] {
+  const slugs = getPostSlugs();
+  const posts = slugs
+      .map((slug) => getPostBySlug(slug));
+  return posts;
+}
