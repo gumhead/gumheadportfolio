@@ -10,7 +10,7 @@ export function PostHeader({ title, coverImage }: Props) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
-      <div className="mb-8 md:mb-16 sm:mx-0">
+      <div className="mb-8 md:mb-16 sm:mx-0 border-b-accent-7 border-y-accent-7">
         <CoverImage title={title} src={coverImage} />
       </div>
     </>
