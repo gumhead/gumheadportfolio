@@ -2,6 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+.post-article {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.mainCoverImage {
+    width: 25%;
+}
+
+.PostBody {
+    background-color: #637c76;
+}
+
 footer {
-    background-color: #5aa8bf;
+    /*background-color: #53786f;*/
+    background-color: #609185;
 }

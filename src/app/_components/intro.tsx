@@ -7,10 +7,10 @@ export function Intro() {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         {" "}
         <a
-          href="https://nextjs.org/"
+          href="https://linktr.ee/gumheadband"
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
-          Next.js
+          linktree
         </a>{" "}
       </h4>
     </section>
