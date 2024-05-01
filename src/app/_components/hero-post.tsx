@@ -1,5 +1,5 @@
 import CoverImage from "@/app/_components/cover-image";
-import Link from "next/link";
+{/*import Link from "next/link";*/}
 
 type Props = {
   title: string;
