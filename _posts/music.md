@@ -1,10 +1,11 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
+title: "Music music"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/smallpadick.png"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/smallpadick.png"
 ---
+
 
 ## Lorem Ipsum
 testtesttest

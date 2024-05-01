@@ -24,6 +24,7 @@ export function HeroPost({
               as={`/posts/${slug}`}
               href="/posts/[slug]"
               className="hover:underline"
+              prefetch={false}
             >
               {title}
             </Link>
