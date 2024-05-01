@@ -6,11 +6,10 @@ type Props = {
   coverImage: string;
   slug: string;
 };
-
+{/*insert slug, under HeroPost - coverImage*/}
 export function HeroPost({
   title,
   coverImage,
-  slug,
 }: Props) {
   return (
     <section className="hero-post">
