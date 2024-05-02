@@ -7,11 +7,12 @@
     margin: 0 auto;
 }
 
-.mainCoverImage {
-    width: 25%;
+.mainCoverImage{
+    display: flex;
 }
 
-.subCoverImage{
+.mainCoverText{
+    width: 50%;
 }
 
 .PostBody {
