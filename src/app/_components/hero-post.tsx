@@ -16,8 +16,8 @@ export function HeroPost({
       <div className="mb-8 md:mb-16 mainCoverImage">
         <CoverImage title={title} src={coverImage} />
           {/*<CoverImage title={title} src={coverImage} slug={slug} />*/}
-          <div className="mainCoverText text-2xl md:text-2xl tracking-tighter leading-tight md:pr-8 ml-10">
-              <p className="font-extrabold text-accent-7 text-4xl md:text-4xl mb-5">Lorem Ipsum</p>
+          <div className="mainCoverText text-2xl md:text-1xl tracking-normal leading-tight md:pr-8 ml-10">
+              <p className="font-extrabold text-accent-7 mb-5 text-4xl md:text-4xl">Lorem Ipsum</p>
               <p>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</p>
               <p>Morbi luctus dolor eu ipsum lacinia, sit amet facilisis mauris condimentum. Vivamus efficitur purus ligula, Nam fermentum luctus pulvinar. Nulla nec egestas dui.</p>
           </div>
