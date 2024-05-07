@@ -20,7 +20,7 @@ export default function Index() {
           coverImage={heroPost.coverImage}
           slug={heroPost.slug}
         />
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        {/* {morePosts.length > 0 && <MoreStories posts={morePosts} />} */}
       </Container>
     </main>
   );
