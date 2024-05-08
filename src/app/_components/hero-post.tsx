@@ -34,7 +34,7 @@ export function HeroPost({
               <p>On TikTok.</p>
               <p></p>
               <p></p>
-              <div className="mt-5 mb-5">
+              <div className="mt-16 mb-5 hidden lg:block">
                   <iframe
                           src="https://open.spotify.com/embed/artist/5qPjHotdh8WsXabiZweCuS?utm_source=generator"
                           width="100%" height="152"
