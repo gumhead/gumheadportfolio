@@ -17,7 +17,7 @@ export function HeroPost({
         <CoverImage title={title} src={coverImage} />
           {/*<CoverImage title={title} src={coverImage} slug={slug} />*/}
           <div className="mainCoverText text-2xl md:text-1xl tracking-normal leading-tight md:pr-8 ml-10">
-              <p className="font-extrabold text-accent-7 mb-5 text-2xl md:text-2xl">Original songs, sync licensing and
+              <p className="font-extrabold text-accent-7 mb-5 text-2xl">Original songs, sync licensing and
                   beatcreation</p>
               <p>Contact me for custom beatpacks, links available in my linktree page.</p>
               <p><a href="https://www.instagram.com/konkavbasisten/"
