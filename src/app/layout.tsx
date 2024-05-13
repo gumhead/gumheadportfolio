@@ -1,5 +1,6 @@
 import Footer from "@/app/_components/footer";
 import { Inter } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react";
 
 import "./globals.css";
 
@@ -39,6 +40,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
       </head>
       <body className={inter.className}>
+      <Analytics />
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
