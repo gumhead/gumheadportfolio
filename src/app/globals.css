@@ -16,7 +16,6 @@
 }
 
 .subCoverImage img{
-    min-height: 215px;
     max-height: fit-content;
 }
 
